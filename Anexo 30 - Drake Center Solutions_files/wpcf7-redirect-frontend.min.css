@@ -1,0 +1,46 @@
+.popup-template .modal {
+
+  opacity: 0;
+
+  -webkit-transition: all 250ms ease;
+
+  -o-transition: all 250ms ease;
+
+  transition: all 250ms ease;
+
+}
+
+
+
+.popup-template .modal.is-open {
+
+  opacity: 1;
+
+  -webkit-transition: all 250ms ease;
+
+  -o-transition: all 250ms ease;
+
+  transition: all 250ms ease;
+
+}
+/*
+     FILE ARCHIVED ON 03:17:50 Aug 05, 2024 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 00:03:39 Oct 18, 2024.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 0.557
+  exclusion.robots: 0.019
+  exclusion.robots.policy: 0.009
+  esindex: 0.011
+  cdx.remote: 8.891
+  LoadShardBlock: 87.804 (3)
+  PetaboxLoader3.datanode: 70.997 (5)
+  PetaboxLoader3.resolve: 81.443 (2)
+  load_resource: 106.747
+  loaddict: 50.774
+*/
